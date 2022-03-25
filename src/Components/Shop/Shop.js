@@ -26,7 +26,7 @@ const Shop = () => {
             
             {/* cart part */}
             <div className='cart-container'>
-                <h1>Selected Product</h1>
+                <h3>Selected Product</h3>
                 <h3>Faisal Karim Noyan</h3>
             </div>
         </div>

@@ -11,8 +11,8 @@
     margin: 100px 50px;
 }
 
-.cart-containerP{
-    width: 100%;
+.cart-container{
+    background-color: rgb(164, 208, 226);
 }
 
 @media only screen and (max-width: 688px) {
@@ -30,7 +30,6 @@
       margin-top: 20px; 
       padding: 20px; 
       border-radius: 20px;
-      background-color: orange;
       display: flex;
       flex-direction: column;
       justify-content: center;
