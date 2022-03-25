@@ -1,0 +1,26 @@
+.header{
+    background-color: blue;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.title{
+    color: yellow;
+    padding: 5px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.link a{
+    text-decoration: none;
+    color: white;
+    margin-left: 25px;
+    font-weight: 400;
+}
+
+.link a:hover{
+    color: orange;
+    
+}
