@@ -14,17 +14,20 @@ const Shop = () => {
         <div className='shop-container'>
             {/* products part */}
             <div className='products-container'>
-                {
+                
+                    {
                     products.map(product => <Product
                     key = {product.id}
                     product = {product}
                     ></Product>)
                 }
+                 
             </div>
             
             {/* cart part */}
             <div className='cart-container'>
-                <h1>cart part</h1>
+                <h1>Selected Product</h1>
+                <h3>Faisal Karim Noyan</h3>
             </div>
         </div>
     );

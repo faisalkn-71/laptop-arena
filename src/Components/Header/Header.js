@@ -5,6 +5,7 @@ const Header = () => {
     return (
         <div className='header'>
             <h1 className='title'>Laptop Arena</h1>
+           
 
             <div className='link'>
                 <a href="/home">Home</a>

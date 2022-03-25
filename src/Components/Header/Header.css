@@ -8,6 +8,7 @@
 }
 
 .title{
+    font-weight: 700;
     color: yellow;
     padding: 5px;
     font-family: 'Times New Roman', Times, serif;
@@ -23,4 +24,13 @@
 .link a:hover{
     color: orange;
     
+}
+
+
+
+@media only screen and (max-width: 688px) {
+    
+    .link{
+        display: none;
+    }
 }
