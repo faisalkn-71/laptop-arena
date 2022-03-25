@@ -1,0 +1,56 @@
+[
+    {
+      "id": "623dee53afe5739960320445",
+      "picture": "images/macbook-pro.jpg",
+      "price": 163280,
+      "name": "Macbook Pro"
+    },
+    {
+      "id": "623dee532134a9022258b922",
+      "picture": "images/macbook-air.jpg",
+      "price": 103353,
+      "name": "Macbook Air"
+    },
+    {
+      "id": "623dee53a299a8d3b7807cb9",
+      "picture": "images/hp-victus.jpg",
+      "price": 90713,
+      "name": "HP Victus"
+    },
+    {
+      "id": "623dee53e80370633d954ddf",
+      "picture": "images/hp-probook.jpg",
+      "price": 80645,
+      "name": "HP Probook"
+    },
+    {
+      "id": "623dee5314876e33ed66a0e2",
+      "picture": "images/hp-spectre.jpg",
+      "price": 68616,
+      "name": "HP Spectre"
+    },
+    {
+      "id": "623dee53bbd8eb87e3dbea11",
+      "picture": "images/acer-spin.jpg",
+      "price": 58617,
+      "name": "Acer Spin"
+    },
+    {
+      "id": "623dee53966a280ff2f2dc0e",
+      "picture": "images/acer-swift.jpg",
+      "price": 50542,
+      "name": "Acer Swift"
+    },
+    {
+      "id": "623dee5376be9aaa195b805c",
+      "picture": "images/lenovo-v330.jpg",
+      "price": 45543,
+      "name": "Lenovo V330"
+    },
+    {
+      "id": "623dee53f2eb0ebd74f2616e",
+      "picture": "images/lenovo-x1.jpg",
+      "price": 37723,
+      "name": "Lenovo X1"
+    }
+  ]
