@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Laptop Arena
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Live website of Laptop Arena](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
