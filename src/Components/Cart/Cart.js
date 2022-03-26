@@ -15,7 +15,7 @@ const Cart = (props) => {
             <h5>Selected Products: {cart.length}</h5>
             
                 {
-                    cart.map(item => <h6 className='selected-item'>{item.name}</h6>)
+                    cart.map(item => <h5 className='selected-item'>{item.name}</h5>)
                 }
            
             <button onClick={() => chooseOne(cart)} className='btn-random'>Choose 1 for me</button>

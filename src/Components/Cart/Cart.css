@@ -9,8 +9,13 @@
 }
 
 .selected-item{
+    color: green;
+    background-color: white;
     font-weight: bold;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
     text-align: center;
+    margin-top: 25px;
 }
 
 .btn-random{
@@ -18,7 +23,7 @@
     font-weight: 600;
     border: 2px solid green;
     border-radius: 20px;
-    padding: 10px 20px;
+    padding: 5px 20px;
     margin-top: 20px;
     margin-bottom: 10px;
 }

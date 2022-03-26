@@ -38,6 +38,7 @@ const Shop = () => {
     }
 
 
+    //handle reset button for resetting product in cart
     const resetProduct = (cart) => {
         setCart([])
     }
