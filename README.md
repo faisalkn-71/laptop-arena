@@ -1,6 +1,6 @@
 # Laptop Arena
 
-This project was bootstrapped with [Live website of Laptop Arena](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Live website of Laptop Arena](https://magnificent-valkyrie-4fa814.netlify.app/).
 
 ## Available Scripts
 
