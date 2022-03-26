@@ -1,6 +1,6 @@
 # Laptop Arena
 
-This project was bootstrapped with [Live website of Laptop Arena](https://magnificent-valkyrie-4fa814.netlify.app/).
+This project was bootstrapped with [Live website of Laptop Arena](https://assignment-8-laptop-arena-on-programming-hero.netlify.app/).
 
 ## Available Scripts
 
