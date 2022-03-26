@@ -4,6 +4,10 @@
     top: 0;
 }
 
+.cart-title{
+    color: rgb(10, 10, 149);
+}
+
 .btn-random{
     color: green;
     font-weight: 600;
