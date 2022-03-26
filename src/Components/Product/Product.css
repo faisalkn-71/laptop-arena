@@ -38,14 +38,16 @@
     background: rgb(34, 108, 138);
     border: 0;
     border-radius: 0px 0px 20px 20px;
+    position: absolute;
+    bottom: 0;
     display: flex;
     align-items: center;
     justify-content: center;
-    position: absolute;
-    bottom: 0;
-    
-    
-    
+     
+}
+
+.btn-icon{
+    margin-left: 5px;
 }
 
 .btn-cart:hover{
