@@ -8,6 +8,11 @@
     color: rgb(10, 10, 149);
 }
 
+.selected-item{
+    font-weight: bold;
+    text-align: center;
+}
+
 .btn-random{
     color: green;
     font-weight: 600;
@@ -22,15 +27,15 @@
     background-color: green;
 }
 
-.btn-again{
+.btn-reset{
     color: red;
     font-weight: 600;
     border: 2px solid red;
     border-radius: 20px;
-    padding: 10px 20px;
+    padding: 5px 20px;
     margin-bottom: 10px;
 }
-.btn-again:hover{
+.btn-reset:hover{
     color: white;
     background-color: red;
 }

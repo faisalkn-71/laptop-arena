@@ -6,7 +6,7 @@ import './Product.css'
 const Product = (props) => {
     const {product, handleAddToCart} = props
     const {name, picture, price} = product
-    // console.log(props)
+    console.log(props)
     return (
         <div className='product '>
             <img className='img-fluid' src={picture} alt="" />
