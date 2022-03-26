@@ -1,0 +1,32 @@
+.cart{
+    padding: 30px 20px;
+    position: sticky;
+    top: 0;
+}
+
+.btn-random{
+    color: green;
+    font-weight: 600;
+    border: 2px solid green;
+    border-radius: 20px;
+    padding: 10px 20px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.btn-random:hover{
+    color: white;
+    background-color: green;
+}
+
+.btn-again{
+    color: red;
+    font-weight: 600;
+    border: 2px solid red;
+    border-radius: 20px;
+    padding: 10px 20px;
+    margin-bottom: 10px;
+}
+.btn-again:hover{
+    color: white;
+    background-color: red;
+}
