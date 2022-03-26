@@ -8,7 +8,7 @@ const Shop = () => {
     const [cart, setCart] = useState([])
 
 
-    // load data for product
+    // load data for product from data.json
     useEffect(() => {
         fetch('data.json')
         .then(res => res.json())
@@ -19,7 +19,6 @@ const Shop = () => {
     //handle add to cart button
     const handleAddToCart = (selectedProduct) => {
         const newCart = [...cart, selectedProduct]
-        console.log(newCart)
         setCart(newCart)
         
     }
@@ -27,13 +26,8 @@ const Shop = () => {
 
     // handle choose 1 for me button
     const chooseOne = (cart) => {
-        console.log(cart)
         const randomNumber = Math.floor(Math.random() * cart.length);
-        console.log(randomNumber)
-
         const choosenCart = [cart[randomNumber]];
-        console.log(choosenCart)
-
         setCart(choosenCart)
     }
 
@@ -50,10 +44,12 @@ const Shop = () => {
         <div className='shop-container'>
            
             {/* products part */}
+
             <div className='products-container'>
                 
-                    {
+                {
                     products.map(product => <Product
+                       
                         key = {product.id}
                         handleAddToCart={handleAddToCart}
                         product = {product}
@@ -64,6 +60,7 @@ const Shop = () => {
             </div>
             
             {/* cart part */}
+
             <div className='cart-container'>
                <Cart 
                key = {cart.id}

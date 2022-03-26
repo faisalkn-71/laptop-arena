@@ -6,7 +6,6 @@ const Header = () => {
         <div className='header'>
             <h1 className='title'>Laptop Arena</h1>
            
-
             <div className='link'>
                 <a href="/home">Home</a>
                 <a href="/order">Order</a>

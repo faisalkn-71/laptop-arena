@@ -27,6 +27,7 @@
     margin-top: 20px;
     margin-bottom: 10px;
 }
+
 .btn-random:hover{
     color: white;
     background-color: green;
@@ -40,6 +41,7 @@
     padding: 5px 20px;
     margin-bottom: 10px;
 }
+
 .btn-reset:hover{
     color: white;
     background-color: red;
